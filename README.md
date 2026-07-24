@@ -33,9 +33,9 @@ Abrir `http://localhost:8000`.
 
 ## Landings externas referenciadas
 
-- Garden Houses → https://garden.malaidea.co/
-- Índigo Mall → https://indigomall.malaidea.co/
-- Índigo Houses → https://indigohouses.malaidea.co/
+- Garden Houses → https://gardenhouses.co/
+- Índigo Mall → https://www.indigomall.co/
+- Índigo Houses → https://www.indigohouses.co/
 
 ---
 
